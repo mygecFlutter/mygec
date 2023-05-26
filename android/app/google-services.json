@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594813993368",
+    "project_id": "mygecerp",
+    "storage_bucket": "mygecerp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594813993368:android:f571041606fc62f2d36bed",
+        "android_client_info": {
+          "package_name": "com.mygec.sharvayainfotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594813993368-d8maubtnj6bte5a2mipgv5gibqpvd9dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO8u1Kq2MMlGhQIYMNEVHy2LpLi4A8C4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594813993368-d8maubtnj6bte5a2mipgv5gibqpvd9dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
